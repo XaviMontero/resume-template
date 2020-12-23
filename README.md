@@ -1,2 +1,2 @@
-# Yet another LaTeX CV/Resume template
+# Xavi Montero CV/Resume  
 A cute template to create cool resumes
